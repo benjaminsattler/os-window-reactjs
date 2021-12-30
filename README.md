@@ -1,3 +1,5 @@
+# **DEPRECATION NOTICE:** This repository will no longer receive updates, it has moved to https://github.com/benjaminsattler/os-window-mono/.
+
 # OS-Window Reactjs Component
 ![CI Status](https://github.com/benjaminsattler/os-window-reactjs/workflows/CI/badge.svg)
 ![MIT License](https://img.shields.io/github/license/benjaminsattler/os-window-reactjs)
